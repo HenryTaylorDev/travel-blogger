@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/travel-blogger/static/css/main.f855e6bc.css",
+    "main.js": "/travel-blogger/static/js/main.b1f67f87.js",
+    "static/media/logo.svg": "/travel-blogger/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/travel-blogger/index.html",
+    "main.f855e6bc.css.map": "/travel-blogger/static/css/main.f855e6bc.css.map",
+    "main.b1f67f87.js.map": "/travel-blogger/static/js/main.b1f67f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b1f67f87.js"
+  ]
+}
