@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travel-blogger/static/css/main.eb5d245e.css",
-    "main.js": "/travel-blogger/static/js/main.41c4e259.js",
+    "main.js": "/travel-blogger/static/js/main.e2443c94.js",
     "static/media/coffee-cafe.jpg": "/travel-blogger/static/media/coffee-cafe.189d948764b2d1b9be94.jpg",
     "static/media/coffee-cafe-2.jpg": "/travel-blogger/static/media/coffee-cafe-2.ae2658750cc8e2ad4b3e.jpg",
     "static/media/coffee-header.jpg": "/travel-blogger/static/media/coffee-header.6ca4e74b6171489fccee.jpg",
@@ -14,10 +14,10 @@
     "static/media/crown-logo.svg": "/travel-blogger/static/media/crown-logo.0692770a3422bbf92e0cc2268779e8b1.svg",
     "index.html": "/travel-blogger/index.html",
     "main.eb5d245e.css.map": "/travel-blogger/static/css/main.eb5d245e.css.map",
-    "main.41c4e259.js.map": "/travel-blogger/static/js/main.41c4e259.js.map"
+    "main.e2443c94.js.map": "/travel-blogger/static/js/main.e2443c94.js.map"
   },
   "entrypoints": [
     "static/css/main.eb5d245e.css",
-    "static/js/main.41c4e259.js"
+    "static/js/main.e2443c94.js"
   ]
 }
